@@ -1,0 +1,5 @@
+{
+  "min_words": 10,
+  "required_fields": ["Title", "Author", "Email"],
+  "restricted_words": ["hate", "abuse", "violence"]
+}
