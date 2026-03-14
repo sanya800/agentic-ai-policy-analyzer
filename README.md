@@ -61,3 +61,5 @@ Future Improvements
 Author
 
 Developed as a beginner AI + Web Development project for learning document analysis and agent-based systems.
+## Project Screenshot
+![Project Screenshot](project.png)
